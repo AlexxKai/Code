@@ -13,10 +13,12 @@ a{
     width: 200px;
     overflow: hidden;
     border-radius: 40px;
+    /*
     border-bottom-right-radius: 40px;
     border-top-right-radius: 40px;
     border-top-left-radius: 40px;
     border-bottom-left-radius: 40px;
+    */
 }
 
 a span{
