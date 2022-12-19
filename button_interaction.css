@@ -1,11 +1,17 @@
+*{
+    background-color: #000;
+}
+
 .button{
-    --color: #7effb2;
+    --color: #a36ff6;
     position: relative;
     display: inline-block;
     text-decoration: none;
     font-size: 25px;
     color: var(--color);
     padding: 20px 50px;
+    margin-top: 25%;
+    margin-left: 50%;
     border: 3px solid var(--color);
 }
 
