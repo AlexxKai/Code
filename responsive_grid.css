@@ -1,0 +1,16 @@
+*{
+    background-color: #000;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax (200px, 1fr));
+    gap: 20px;
+  }
+  
+  .card{
+    height: 200px;
+    width: 500px;
+    background-color: #7e45b2;
+    border-radius: 8px;
+  }
